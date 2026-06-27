@@ -35,6 +35,8 @@ This is  change one
 
 This is change two
 
+This is change three
+
  
 
 Section B: Branching & Commits
