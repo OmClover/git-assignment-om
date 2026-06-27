@@ -31,7 +31,9 @@ Q5.Run \`git log\` and copy the hash ID of your first commit into \`answers.md\`
 
 Q6.Perform few changes and make a five commits.
 
-This is  change one 
+This is  change one
+
+This is change two
 
  
 
